@@ -26,12 +26,3 @@ Backend:
 cd wfh-attendance-backend
 npm install
 npm run dev
-
----
-
-## Step 4 — Add, commit, push
-
-```bash
-git add README.md
-git commit -m "Initialize README"
-git push origin master
