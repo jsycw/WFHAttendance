@@ -1,0 +1,1 @@
+CREATE DATABASE wfh_attendance;
